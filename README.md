@@ -36,14 +36,6 @@
 
 ---
 
-## 📜 Certifications  
-- Python Programming Masterclass – Udemy  
-- Internet of Things – NPTEL  
-- Introduction to Kubernetes – edX  
-- Azure Fundamentals – Microsoft Certified  
-
----
-
 ## 📫 Connect with Me  
 - 📧 Email: [maheshakki799@gmail.com](mailto:maheshakki799@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/maheshakki](https://linkedin.com/in/maheshakki)    
