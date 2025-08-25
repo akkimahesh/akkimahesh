@@ -46,8 +46,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: [maheshakki799@gmail.com](mailto:maheshakki799@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/maheshakki](https://linkedin.com/in/maheshakki)  
-- 🖥️ GitHub: [github.com/akki-mahesh](https://github.com/akkimahesh) *(update with your actual username)*  
+- 💼 LinkedIn: [linkedin.com/in/maheshakki](https://linkedin.com/in/maheshakki)    
 
 ---
 
