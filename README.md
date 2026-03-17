@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akki Mahesh  
 
-🚀 **Aspiring DevSecOps Engineer | Cloud & Automation Enthusiast**  
+🚀 **DevSecOps Engineer | Cloud & Automation Enthusiast**  
 🎯 Passionate about driving automation, optimizing cloud infrastructure, and accelerating software delivery.  
 
 ---
