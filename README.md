@@ -6,33 +6,21 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🔧 Skilled in **AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions**  
-- 📚 Pursuing **B.Tech in Artificial Intelligence & Data Science (2021–2025)**  
-- 🌱 Exploring **DevSecOps practices** to bridge security, development, and operations  
-- 💡 Interested in **Cloud Security, CI/CD, Infrastructure as Code, and Automation**  
-- 📍 From Nellore, Andhra Pradesh  
+- My name is Mahesh. I have a total of 2.6 years of experience as a DevOps Engineer with strong real-time practical experience in Kubernetes, Docker, Terraform, AWS, Prometheus, Grafana, and ELK Stack.
+- I have worked on a microservices-based application consisting of around 50 services, where my primary responsibility was managing Jenkins CI/CD pipelines for 10 microservices.
+- I have successfully implemented and maintained automated deployment pipelines across DEV, QA, and Production environments, ensuring seamless service updates with new version releases
 
 ---
 
 ## 🛠️ Technical Skills  
-- ☁️ **Cloud Platforms:** AWS  
+- ☁️ **Cloud Platforms:** AWS, Azure
 - 🐳 **DevOps Tools:** Docker, Kubernetes, Terraform  
 - ⚙️ **CI/CD:** Jenkins, GitHub Actions  
-- 🛠️ **Build Tool:** Maven  
+- 🛠️ **Build Tool:** Maven, npm, flutter 
 - 📝 **Scripting & Programming:** Shell, YAML, Python  
 - 📊 **Monitoring & Logging:** Prometheus, Grafana  
 - 🔐 **Security Tools:** SonarQube, Nexus  
 - 🖥️ **Operating Systems:** Windows, Linux  
-
----
-
-## 💼 Experience  
-**AWS DevSecOps Intern** – *Vcube Software Solutions Pvt Ltd* (May 2025 – Present)  
-- Provisioned and managed AWS resources using Terraform  
-- Built secure Docker images & deployed workloads with Kubernetes  
-- Automated CI/CD pipelines with Jenkins & GitHub Actions  
-- Integrated security tools like SonarQube for static/dynamic analysis  
-- Enforced IAM policies, NACLs, and encryption for AWS security  
 
 ---
 
