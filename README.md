@@ -10,7 +10,7 @@
 
 🔹 Hands-on experience deploying and managing applications built with:
 
-* Node.js
+* Node.js  * React.js
 * React.js
 * .NET
 * Java
